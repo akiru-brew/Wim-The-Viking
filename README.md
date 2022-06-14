@@ -2,6 +2,8 @@
 
 ![label](label.jpg)
 
+Yup, the label is slowly being simplified.
+
 Belgium Triple as per [Wim The Third](/Wim-the-Third/) but using a Norwegian rather than Belgian yeast.
 This is an experiment to work out the pros and cons of this yeast.
 
