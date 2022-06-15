@@ -81,14 +81,15 @@ An acceptable variation.
 ![Fermentation Graph](graph.png)
 
 ## Kegging
-The Kveik produces a massive krausen. Although some sunk during the cold crash, some was stubborn. A massive amount clung to the tilt hydrometer making it give wrong gravity readings.
-
-Although I could just carefully steer the siphon away from the clumps, I instead decided the use the hop spider as a filter with the syphon inside.
+The Kveik produces a massive krausen. Although some sunk during the cold crash, some was stubborn. A massive amount clung to the tilt hydrometer making it give wrong gravity readings. I had to place the siphon carefully to avoid any yeastbergs.
 
 4 bottles were filled and the rest went in a keg.
 
 
 ## Tasting notes
+It tastes nice, strong, fruity.
+
+This confirms that a lot of the flavour profile comes from the yeast. Despite being the same recipe (apart from the yeast) as my previous Belgian triple, this does not have the Belgian flavour at ll. Instead it tastes slightly fruity, as the kveik yeast is known to cause. It's a nice beer, but not belgian.
 
 ![beer](beer.jpg)
 
@@ -97,4 +98,7 @@ Although I could just carefully steer the siphon away from the clumps, I instead
 * Constant sparging means I don't need to bother rinsing the malt after the mash out.
 * Kveik works quickly. The Internet suggests that I don't need to worry about diacetyl rest.
 * Kveik turns the beer rather cloudy. It need a long cold crash to make it look attractive.
-* Kveik produces a massive krausen. If it doesn't all sink during the cold crash I can protect the siphon with a hop spider.
+* Kveik produces a massive krausen. If it doesn't all sink during the cold crash I would love to protect the siphon with a hop spider but it doesn't fit in the fermenter. I'll need a plan B for removing fruit residue from beers...
+* By making a bit extra I wasn't worried about getting every last drop from the fermenter, and so inevitably getting too much yeast coming alone with it.
+* Don't label when the beer is too cold, the condensation affects the glue.
+* Don't cold crash to 1C, ice forms making the beer stronger, and who wants that?
