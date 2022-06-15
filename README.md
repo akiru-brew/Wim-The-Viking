@@ -74,15 +74,18 @@ The [BJCP SRM guide](https://www.brewersfriend.com/2017/05/07/beer-styles-srm-co
 | FG          | 1.010         |1.009   |
 | ABV         | 7.7%          | 7.9%   |
 
----- TBD ---
-
+An acceptable variation.
 
 ## Graph
 
 ![Fermentation Graph](graph.png)
 
 ## Kegging
+The Kveik produces a massive krausen. Although some sunk during the cold crash, some was stubborn. A massive amount clung to the tilt hydrometer making it give wrong gravity readings.
 
+Although I could just carefully steer the siphon away from the clumps, I instead decided the use the hop spider as a filter with the syphon inside.
+
+4 bottles were filled and the rest went in a keg.
 
 
 ## Tasting notes
@@ -93,4 +96,5 @@ The [BJCP SRM guide](https://www.brewersfriend.com/2017/05/07/beer-styles-srm-co
 ## Lessons learnt
 * Constant sparging means I don't need to bother rinsing the malt after the mash out.
 * Kveik works quickly. The Internet suggests that I don't need to worry about diacetyl rest.
-* Kveik turns the beer rather cloudy. Will need a long cold crash to make it look attractive.
+* Kveik turns the beer rather cloudy. It need a long cold crash to make it look attractive.
+* Kveik produces a massive krausen. If it doesn't all sink during the cold crash I can protect the siphon with a hop spider.
