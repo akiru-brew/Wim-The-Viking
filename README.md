@@ -89,7 +89,8 @@ The Kveik produces a massive krausen. Although some sunk during the cold crash, 
 ## Tasting notes
 It tastes nice, strong, fruity.
 
-This confirms that a lot of the flavour profile comes from the yeast. Despite being the same recipe (apart from the yeast) as my previous Belgian triple, this does not have the Belgian flavour at ll. Instead it tastes slightly fruity, as the kveik yeast is known to cause. It's a nice beer, but not belgian.
+This confirms that a lot of the flavour profile comes from the yeast. Despite being the same recipe (apart from the yeast) as my previous Belgian triple, this does not have the Belgian flavour at ll. Instead it tastes slightly fruity, as the kveik yeast is known to cause. It's a nice beer, but not belgian. And for some reason it lacks a head.
+
 
 ![beer](beer.jpg)
 
